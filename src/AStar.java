@@ -3,7 +3,7 @@ import java.util.Vector;
 
 import javax.swing.JOptionPane;
 
-//This class is used to perform A-Star Search TESTING
+//This class is used to perform A-Star Search
 
 public class AStar extends java.lang.Object implements Runnable
 {
