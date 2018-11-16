@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.Serializable;
 import java.util.Vector;
 
-//This class is used to build and maintain cells
+//This class is used to build and maintain cells test
 
 public class GridCell extends java.awt.Component implements Serializable
 {
